@@ -6,10 +6,11 @@
   font-size: 16px;
   line-height: 1.12;
   color: #FFFFFF;
+  transition: opacity .3s linear;
 }
 
 .footer__link:hover {
-  text-decoration: underline;
+  opacity: .8;
 }
 
 @media (max-width: 576px) {

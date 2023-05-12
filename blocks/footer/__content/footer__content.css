@@ -10,10 +10,6 @@
   padding-right: 48px;
 }
 
-@media (max-width: 1200px) {
-  .footer__content {}
-}
-
 @media (max-width: 768px) {
   .footer__content {
     padding-left: 24px;

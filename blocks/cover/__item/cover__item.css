@@ -26,6 +26,7 @@
   left: 0;
   background-color: #2A2C2F;
   opacity: 0.3;
+  transition: opacity .4s linear;
 }
 
 .cover__item:hover::before {
@@ -36,7 +37,6 @@
 @media (max-width: 1024px) {
   .cover__item {
     width: 100%;
-    /* min-height: 640px; */
   }
 }
 
