@@ -1,0 +1,18 @@
+.cards__description-paragraph {
+  display: flex;
+  flex-direction: column;
+  gap: 26px 0;
+}
+
+@media (max-width: 768px) {
+  .cards__description-paragraph {
+    gap: 25px 0;
+  }
+}
+
+@media (max-width: 576px) {
+  .cards__description-paragraph {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

@@ -1,0 +1,17 @@
+.cards__heading-link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: 2px;
+  color: #AAAAAA;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  .cards__heading-link {
+    line-height: 1;
+  }
+}
