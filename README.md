@@ -9,7 +9,11 @@
 **GitHub**
 
 ------
+<<<<<<< HEAD
 * [Ссылка проекта на GitHub](https://github.com/SolidHard1/russian-travel)
+=======
+* [Ссылка проекта на GitHub](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+>>>>>>> 47ba3427222e64b7752a0f9591b80d27634841f5
 
 ## В проекте используются различные технологии.
 ------
