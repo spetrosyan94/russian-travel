@@ -1,0 +1,12 @@
+.cards__link-info {
+  display: grid;
+  gap: 12px 0;
+  align-self: end;
+}
+
+@media (max-width: 576px) {
+  .cards__link-info {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

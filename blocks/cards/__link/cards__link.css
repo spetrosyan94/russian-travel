@@ -1,0 +1,21 @@
+.cards__link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.22;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+  transition: opacity .3s linear;
+}
+
+.cards__link:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 576px) {
+  .cards__link:hover {
+    transition: none;
+    opacity: 1;
+  }
+}

@@ -1,0 +1,18 @@
+.cards__description {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.63;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+  max-width: 484px;
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  .cards__description {
+    font-size: 16px;
+  }
+}
