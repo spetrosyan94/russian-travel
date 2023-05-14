@@ -1,3 +1,9 @@
 .lead {
   max-width: 984px;
 }
+
+@media (max-width: 1024px) {
+  .lead {
+    max-width: 928px;
+  }
+}

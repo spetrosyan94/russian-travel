@@ -11,12 +11,7 @@
 
 @media (max-width: 576px) {
   .footer__copyright {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
     font-size: 14px;
     line-height: 1;
-    color: #FFFFFF;
-
   }
 }

@@ -15,15 +15,11 @@
 
 @media (max-width: 576px) {
   .footer__link {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
     font-size: 24px;
     line-height: 1;
-    color: #FFFFFF;
   }
 
   .footer__link:hover {
-    text-decoration: none;
+    opacity: 1;
   }
 }

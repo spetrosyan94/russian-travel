@@ -18,6 +18,8 @@
 
 @media (max-width: 768px) {
   .lead__caption {
+    padding-left: 24px;
+    padding-right: 24px;
     padding-bottom: 88px;
   }
 }
@@ -25,7 +27,7 @@
 @media (max-width: 576px) {
   .lead__caption {
     padding-left: 16px;
-    padding-right: 146px;
+    padding-right: 16px;
     padding-bottom: 64px;
   }
 }

@@ -38,7 +38,7 @@
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 666px) {
   .cards__item {
     box-sizing: border-box;
     grid-template-columns: minmax(320px, 1fr);

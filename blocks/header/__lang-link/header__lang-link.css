@@ -6,11 +6,21 @@
   line-height: 1.17;
   text-decoration: none;
   color: #FFFFFF;
+  transition: opacity .3s linear;
 }
+
+.header__lang-link:hover {
+  opacity: .8;
+}
+
 
 @media (max-width: 576px) {
   .header__lang-link {
     font-size: 18px;
     line-height: 1.11;
+  }
+
+  .header__lang-link:hover {
+    opacity: 1;
   }
 }

@@ -51,8 +51,4 @@
     margin-bottom: 64px;
     min-width: 320px;
   }
-
-  .cover__item::before {
-    display: none;
-  }
 }
