@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   gap: 26px 0;
+  box-sizing: border-box;
 }
 
 @media (max-width: 768px) {
@@ -10,9 +11,19 @@
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 725px) {
+  .cards__description-paragraph {
+    font-size: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    /* width: 100%; */
+    max-width: 645px;
+  }
+}
+
+/* @media (max-width: 576px) {
   .cards__description-paragraph {
     padding-left: 16px;
     padding-right: 16px;
   }
-}
+} */

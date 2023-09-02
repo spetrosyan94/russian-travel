@@ -4,7 +4,7 @@
   align-self: end;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 725px) {
   .cards__link-info {
     padding-left: 16px;
     padding-right: 16px;

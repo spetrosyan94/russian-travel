@@ -6,7 +6,7 @@
   gap: 0 18px;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 665px) {
   .footer__links-list {
     flex-direction: column;
     align-items: flex-start;

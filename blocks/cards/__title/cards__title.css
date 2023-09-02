@@ -11,11 +11,12 @@
   align-content: end;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 725px) {
   .cards__title {
     font-size: 42px;
     line-height: 1.1;
-    max-width: 330px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
 

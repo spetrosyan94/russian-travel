@@ -7,12 +7,23 @@
   color: #FFFFFF;
   margin: 0;
   padding: 0;
-  max-width: 484px;
+  /* max-width: 484px; */
+  width: 100%;
   text-align: left;
 }
 
 @media (max-width: 768px) {
   .cards__description {
     font-size: 16px;
+
   }
 }
+
+/* @media (max-width: 725px) {
+  .cards__description {
+    font-size: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    width: 100%;
+  }
+} */

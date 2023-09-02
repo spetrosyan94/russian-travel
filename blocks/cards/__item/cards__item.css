@@ -38,7 +38,7 @@
   }
 }
 
-@media (max-width: 666px) {
+@media (max-width: 725px) {
   .cards__item {
     box-sizing: border-box;
     grid-template-columns: minmax(320px, 1fr);
@@ -46,7 +46,8 @@
     padding-right: 0;
     gap: 32px 0;
     padding-bottom: 50px;
-    min-width: 320px;
+    /* min-width: 320px; */
+    max-width: 100%;
   }
 
   .cards__item:last-child {
