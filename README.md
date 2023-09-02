@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![Desktop screenshot](./screenshot/russian-travel-1.png)### Описание проекта
+![Desktop screenshot](./screenshot/russian-travel-1.png)
 
 ## Описание проекта
 
@@ -73,6 +73,6 @@
 
 **Петросян Сергей**
 
-Сайт "Mesto" разработан и поддерживается [Петросяном Сергеем](https://github.com/spetrosyan94) - https://github.com/spetrosyan94.
+Сайт "Путешествия по России" разработан и поддерживается [Петросяном Сергеем](https://github.com/spetrosyan94) - https://github.com/spetrosyan94.
 
 e-mail: [syspect@bk.ru](mailto:syspect@bk.ru)
